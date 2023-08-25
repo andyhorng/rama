@@ -1,0 +1,4 @@
+{:deps {hiccup/hiccup {:mvn/version "2.0.0-alpha2"}
+        ;; it works after comment out rama dependency
+        com.rpl/rama {:mvn/version "0.9.0"}}
+ :mvn/repos {"nexus-releases" {:url "https://nexus.redplanetlabs.com/repository/maven-public-releases"}}}
